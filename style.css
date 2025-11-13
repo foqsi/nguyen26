@@ -59,6 +59,17 @@ body {
     gap: 8px;
 }
 
+.contact-info a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s;
+}
+
+.contact-info a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
 .content {
     padding: 40px;
 }

@@ -60,13 +60,13 @@ body {
 }
 
 .contact-info a {
-    color: white;
+    color: #a8b8ff;
     text-decoration: none;
-    transition: opacity 0.3s;
+    transition: all 0.3s;
 }
 
 .contact-info a:hover {
-    opacity: 0.8;
+    color: #c8d4ff;
     text-decoration: underline;
 }
 
